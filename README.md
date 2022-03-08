@@ -15,6 +15,6 @@ Below is an example of how to run on your command prompt or terminal.
 ```bash
 git clone https://github.com/koo-eunha/google_widget_redesign.git
 # navigate to the cloned folder on your local device
-npm install # or yarn install
+npm install
 npm start  
 ```
