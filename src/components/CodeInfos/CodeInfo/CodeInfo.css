@@ -1,0 +1,10 @@
+.code-des {
+    font-size: 0.875rem;
+    padding: 0 1.5rem;
+    color: #202124;
+    white-space: pre-wrap;
+}
+
+.code-des span {
+    color: #1A73E8;
+}

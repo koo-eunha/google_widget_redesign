@@ -1,0 +1,8 @@
+.widget {
+    display: flex;
+    width: 50vw;
+    height: 50vh;
+    border-radius: 8px;
+    border: 1px solid #dadce0;
+    overflow: hidden;
+}

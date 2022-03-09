@@ -1,0 +1,14 @@
+.filter-container {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    border-right: 1px solid #dadce0;
+    width: 6rem;
+    min-width: 6rem;
+}
+
+.filter-container::-webkit-scrollbar {
+    display: none;
+}
