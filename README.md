@@ -3,6 +3,8 @@ A redesign of Google's code snippet widget. The original design is available on 
 
 I redesigned it for the instance that the number of code tabs increase, it would still be able to fit in the widget and users could easily navigate between the different tabs.
 
+This project is intended for design purposes, so please not that the content is incomplete.
+
 ## How to run
 First, clone this repository or download the code in a ZIP file.
 
