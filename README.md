@@ -13,8 +13,8 @@ Then run ```npm install``` to install all required dependencies and start the ap
 Below is an example of how to run on your command prompt or terminal.
 
 ```bash
+# navigate to the folder that you would like to clone the code on your local device
 git clone https://github.com/koo-eunha/google_widget_redesign.git
-# navigate to the cloned folder on your local device
 npm install
 npm start  
 ```
