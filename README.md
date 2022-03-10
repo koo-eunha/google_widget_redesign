@@ -1,5 +1,5 @@
 # Google Widget Redesign
-A redesign of Google's code snippet widget. The original design is available on this link: https://cloud.google.com/speech-to-text/docs/libraries#installing_the_client_library
+This project is a redesign of Google's code snippet widget using React.js. The original design is available on this link: https://cloud.google.com/speech-to-text/docs/libraries#installing_the_client_library
 
 I redesigned it for the instance that the number of code tabs increase, it would still be able to fit in the widget and users could easily navigate between the different tabs.
 
