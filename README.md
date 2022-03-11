@@ -6,6 +6,10 @@ I redesigned it for the instance that the number of code tabs increase, it would
 This project is intended for design purposes, so please note that the content is incomplete.
 
 ## How to run
+To only view the app, please visit this link: https://google-widget-redesign.herokuapp.com/
+
+To run a clone of the app on your local device, please follow the instructions below:
+
 First, clone this repository or download the code in a ZIP file.
 
 Then to run the code, navigate into the cloned or downloaded local folder on your device via the cd command in your command prompt or terminal.
